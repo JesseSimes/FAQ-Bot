@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FAQ-Bot
 # RAG Pipeline — Project Overview
 
